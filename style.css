@@ -1,0 +1,32 @@
+* {
+    background-color: pink;
+}
+.title {
+    text-align: center;
+    font-size: 2em;
+    font-display: bold;
+}
+img {
+    width: 500px;
+    display: block;
+    margin: 0 auto;
+    align-items: center;
+    justify-content: center;
+    
+    height: auto;
+}
+.button {
+    display: block;
+    margin: 0 auto;
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    font-size: 1.5em;
+}
+li{
+    color: brown;
+}
